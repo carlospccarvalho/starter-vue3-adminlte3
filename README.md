@@ -1,5 +1,7 @@
 # webapp
 
+![Example](example.png)
+
 ## Project setup
 ```
 npm install
